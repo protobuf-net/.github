@@ -2,5 +2,5 @@
 # doesn't define its own .github/FUNDING.yml.
 # Both keys are GitHub's own platform names rather than `custom` URLs, so each renders
 # with the service it belongs to rather than as an anonymous link.
-github: [mgravell, protobuf-net]
+github: [protobuf-net, mgravell]
 buy_me_a_coffee: marcgravell
